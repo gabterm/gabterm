@@ -261,7 +261,7 @@ def next_level() -> str:
 
 if __name__ == "__main__":
     OUT.mkdir(exist_ok=True)
-    for name, fn in [("hero", hero), ("player", player), ("quest", quest), ("side-quests", side),
-                     ("codex", codex), ("next-level", next_level)]:
+    # no perfil vão só o hero e o NEXUS; os outros cartões ficam aqui caso um dia queira usar
+    for name, fn in [("hero", hero), ("quest", quest)]:
         (OUT / f"{name}.svg").write_text(fn(), encoding="utf-8")
         print(f"assets/{name}.svg", round((OUT / f"{name}.svg").stat().st_size / 1024), "KB")
