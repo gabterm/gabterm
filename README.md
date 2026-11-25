@@ -1,25 +1,13 @@
 <p align="center">
-  <img src="header.svg" width="100%" alt="gabterm · backend · automation · systems that hold">
+  <img src="assets/hero.svg" width="100%" alt="GABTERM — Elixir Software Engineer · AI Enthusiast · backend, automation, systems that hold">
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-github.pages.dev/api/typing?lines=%3E%20Elixir%20Software%20Engineer%20%7C%20AI%20Enthusiast%20---&theme=shadow&color=%2300ff1e&particleColor=%23000000&background=%230d1117" alt="Elixir Software Engineer | AI Enthusiast">
+  <img src="assets/player.svg" width="100%" alt="Player 1 — classe: Backend Engineer; especial: Focus & Flow; inventário: Elixir, Phoenix, Python, JavaScript, Node.js, Electron, Linux">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" alt="Elixir">
-  <img src="https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white" alt="Phoenix">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/gabterm/nexus"><img src="project.svg" width="100%" alt="Projeto em destaque: NEXUS, terminal sci-fi para Linux"></a>
+  <a href="https://github.com/gabterm/nexus"><img src="assets/quest.svg" width="100%" alt="Main quest: NEXUS, terminal sci-fi para Linux"></a>
 </p>
 
 <p align="center">
@@ -28,9 +16,11 @@
   </a>
 </p>
 
-### Outros projetos
+<p align="center">
+  <img src="assets/side-quests.svg" width="100%" alt="Side quests">
+</p>
 
-| Projeto | O que é | Stack |
+| Quest | O que é | Stack |
 |---|---|---|
 | [**Lynx Assistant**](https://github.com/gabterm/Lynx-Assistant) | Assistente desktop open source: automatiza tarefas com comandos simples. Engine separada da UI, comandos extensíveis | Python |
 | [**DoubleCheckSec**](https://github.com/gabterm/DoubleCheckSec) | Autenticação em dois fatores com TOTP, cadastro por QR Code e segredos cifrados com AES | Python |
@@ -41,12 +31,12 @@
 | [**gesture-mouse-controller**](https://github.com/gabterm/gesture-mouse-controller) | Controla o mouse com gestos da mão | Python, OpenCV, MediaPipe |
 | [**Nightborn**](https://github.com/gabterm/Nightborn) | Minecraft dark fantasy: criaturas novas, biomas corrompidos e uma ambientação opressiva | Minecraft |
 
-<br>
-
 <p align="center">
-  <img src="axioms.svg" width="100%" alt="Axiomas de engenharia">
+  <img src="assets/codex.svg" width="100%" alt="Codex — axiomas de engenharia">
 </p>
 
 <p align="center">
-  <img src="footer.svg" width="100%" alt="Direção atual: backend, IA aplicada e sistemas distribuídos">
+  <img src="assets/next-level.svg" width="100%" alt="Next level: backend, IA aplicada e sistemas distribuídos">
 </p>
+
+<sub>Arte gerada por <code>tools/build.py</code>. Fontes Press Start 2P e VT323 (SIL Open Font License 1.1).</sub>
